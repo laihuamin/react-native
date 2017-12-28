@@ -1,0 +1,37 @@
+[{
+    "name": "laihuamin",
+    "password": "123",
+    "partment": "框架研发",
+    "tel": "12345678901",
+    "email": "123@qq.com",
+    "tag": "研发",
+    "creater": "wlh",
+    "token": "5C391E5O-C16O-4AFA-A4D5-19B315F5D357C34COB51-3A68-4297-9C7E-A851B136D34F"
+},{
+    "name": "宋江",
+    "password": "123",
+    "partment": "监控研发",
+    "tel": "12345678901",
+    "email": "123@qq.com",
+    "tag": "研发",
+    "creater": "wlh",
+    "token": "5C391E5O-C16O-4AFA-A4D5-19B315F5D357C34COB51-3A68-4297-9C7E-A851B136D34F"
+},{
+    "name": "吴用",
+    "password": "123",
+    "partment": "框架产品",
+    "tel": "12345678901",
+    "email": "123@qq.com",
+    "tag": "产品",
+    "creater": "wlh",
+    "token": "5C391E5O-C16O-4AFA-A4D5-19B315F5D357C34COB51-3A68-4297-9C7E-A851B136D34F"
+},{
+    "name": "卢俊义",
+    "password": "123",
+    "partment": "框架产品",
+    "tel": "12345678901",
+    "email": "123@qq.com",
+    "tag": "产品实习",
+    "creater": "wlh",
+    "token": "5C391E5O-C16O-4AFA-A4D5-19B315F5D357C34COB51-3A68-4297-9C7E-A851B136D34F"
+}]
