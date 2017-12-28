@@ -1,0 +1,23 @@
+[
+    {
+        "messageid": "3",
+        "userid": "112222",
+        "time": "2015-05-03",
+        "username": "王**",
+        "message": "欢迎王**加入我们"
+    },
+    {
+        "messageid": "4",
+        "userid": "112223",
+        "time": "2015-05-04",
+        "username": "来**",
+        "message": "欢迎来**加入我们"
+    },
+    {
+        "messageid": "5",
+        "userid": "112224",
+        "time": "2015-05-05",
+        "username": "魏**",
+        "message": "欢迎魏**加入我们"
+    }
+]
